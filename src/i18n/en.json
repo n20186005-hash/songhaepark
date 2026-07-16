@@ -1,0 +1,990 @@
+{
+  "meta": {
+    "title": "Songhae Park (Okyeonji) | Dalseong-gun, Daegu, Korea · Lakeside Eco Park, Song Hae Trail & Four-Season Flower Fields",
+    "description": "The complete guide to Songhae Park (Okyeonji, Korean: 송해공원 / 옥연지 송해공원): a lakeside eco park on the shore of Okyeonji Pond in Dalseong-gun, Daegu, Korea. A roughly 3.5 km 'Song Hae Trail' (송해둘레길) loops the pond, linking lake views, four-season flower fields (spring azaleas, autumn cosmos and pink muhly), a memorial statue of Song Hae, and photo spots — all free and open 24 hours. Named after Korea's beloved national MC Song Hae (송해, 1926–2022), it is the green living room of Dalseong-gun for strolls, family outings, and quiet escapes. Hours, transport, history, photo spots, and visitor reviews all in one place."
+  },
+  "header": {
+    "siteName": "Songhae Park (Okyeonji)",
+    "home": "Home",
+    "visit": "Visit",
+    "transport": "Transport",
+    "lodging": "Stay",
+    "history": "History",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "faq": "FAQ",
+    "map": "Map",
+    "backToHome": "Back to home"
+  },
+  "common": {
+    "changeLanguage": "Change language",
+    "toggleTheme": "Toggle theme"
+  },
+  "nonprofitBanner": {
+    "text": "This is a non-profit independent guide put together by enthusiastic travelers, offering the most objective information on Songhae Park free of charge, and affiliated with no organization.",
+    "dataSource": "All information on this site is cross-checked against public materials from Dalseong-gun, the Daegu Metropolitan Government, and the Korea Tourism Organization (VisitKorea), with no commercial endorsements."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "text": "So that every traveler who comes to Daegu won't miss the lake and flower fields on the shore of Okyeonji, we have gathered scattered official information into this guide — to give you the purest experience of 'by the lake, among the flowers, reading a life'."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "region": "Daegu Metropolitan City",
+    "city": "Dalseong-gun",
+    "current": "Songhae Park"
+  },
+  "stickyNav": {
+    "facts": "Key Facts",
+    "etiquette": "Good Manners",
+    "route": "Half-Day Route",
+    "transport": "Transport",
+    "lodging": "Stay",
+    "visit": "Visit Tips",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "title": "Songhae Park (Okyeonji · 송해공원)",
+    "subtitle": "A lakeside eco park on the shore of Okyeonji Pond (옥연지) in Dalseong-gun, Daegu, Korea. The roughly 3.5 km 'Song Hae Trail' (송해둘레길) loops the pond, linking lake views, four-season flower fields, a memorial statue of Song Hae, and photo spots. The name 'Okyeonji' is said to mean 'a deep, jade-like pond,' and the park is named after Korea's beloved national MC Song Hae (송해, 1926–2022), carrying the songs and smiles he shared with Koreans for decades. The park is free and open all day.",
+    "rating": "4.3 (5,207)",
+    "reviewCount": "5,207 reviews",
+    "hours": "24 hours (year-round)",
+    "openMaps": "View location on Google Maps",
+    "mapsUrl": "https://maps.app.goo.gl/b9a3wYNpbV6XyTJs7",
+    "legend": {
+      "quote": "Songhae Park is named after Korea's beloved national MC Song Hae (송해, 1926–2022). He devoted his life to the National Singing Contest (전국노래자랑), and left the waters and greenery of Okyeonji to the citizens of Dalseong-gun and to travelers from afar.",
+      "attribution": "— Honorary Citizen of Dalseong-gun · Song Hae (송해)"
+    },
+    "tags": ["Lakeside eco park", "Free · 24h", "Song Hae Trail 3.5km"],
+    "routeCta": {
+      "label": "Plan your route",
+      "href": "#transport"
+    },
+    "historyCta": {
+      "label": "Learn the history",
+      "href": "#history"
+    },
+    "quickFacts": [
+      { "icon": "🌳", "label": "Highlight", "value": "Okyeonji Lake" },
+      { "icon": "🆓", "label": "Admission", "value": "Free" },
+      { "icon": "🕘", "label": "Hours", "value": "24 hours" }
+    ],
+    "navCta": { "label": "📍 Get directions", "href": "#transport" },
+    "photoCta": { "label": "📸 Photo spots", "href": "#gallery" },
+    "factsSource": { "label": "Hours & admission per Dalseong County official info", "url": "https://www.dalseong.daegu.kr/culture/index.do?menu_id=00001956&menu_link=front/tour/tourMapsViewFromMain.do&tourId=120" },
+    "liveInfo": { "weather": "Current weather", "sunset": "Today's sunset" },
+    "sunsetPlanner": {
+      "eyebrow": "Golden Hour Calculator · Light Tool",
+      "title": "Based on today's sunset, we recommend arriving about 60 minutes earlier to catch the softest diffuse light and the blue hour on the water — ideal for the trail, flower fields, and the Song Hae statue.",
+      "note": "The park wraps around the lake and is open; light is warmest from morning to dusk. On weekends or clear days, allow extra time to avoid crowds.",
+      "seaGlare": "Sunrise tip: the park embraces Okyeonji Pond and is a popular spot for lake sunrise and morning mist. The first light on the water and flowers is the golden window for photography; mornings are cold in autumn and winter, so dress warmly against the lake breeze.",
+      "arriveLabel": "Arrive by",
+      "blueHourLabel": "Blue hour",
+      "lightCaption": "Light calculated live by Open-Meteo"
+    }
+  },
+  "quickFactsDashboard": {
+    "title": "Songhae Park at a Glance · Data Board",
+    "subtitle": "A few numbers to understand this lakeside park on the shore of Okyeonji.",
+    "items": [
+      { "icon": "💧", "label": "Okyeonji Pond / Pond", "value": "Loop ~3.5km", "note": "A natural lakeside green space centered on Okyeonji Pond (옥연지); boardwalks and lawns weave together as Dalseong-gun's most recognizable waterside space." },
+      { "icon": "🌸", "label": "Flower Fields / Flowers", "value": "Azalea · Cosmos", "note": "Spring brings azaleas (진달래) and rapeseed; autumn brings cosmos (코스모스) and pink muhly (핑크뮬리). Every season has something in bloom." },
+      { "icon": "🚶", "label": "Song Hae Trail / Trail", "value": "3.5km", "note": "A lakeside loop trail (송해둘레길) built along the water — flat and easy, connecting the statue, flower fields, wetlands, and photo spots for the whole family." },
+      { "icon": "🗿", "label": "Memorial Statue / Statue", "value": "Song Hae", "note": "A memorial statue and photo zone for Song Hae (송해) honors Korea's national MC and is the park's central photo landmark." },
+      { "icon": "📍", "label": "Coordinates / Coords", "value": "~35°38′N, 128°29′E", "note": "Plus Code: QFCM+QP Daegu. Address: 306 Gise-ri, Okpo-eup, Dalseong-gun, Daegu, Korea." },
+      { "icon": "🎟️", "label": "Admission / Admission", "value": "Free", "note": "The park is free and open 24 hours, managed by Dalseong-gun, and can be visited anytime — perfect for walks, families, and photography." }
+    ]
+  },
+  "hiddenRules": {
+    "title": "Lakeside Park Visiting Tips",
+    "subtitle": "Songhae Park is by the water, open, and full of flower fields. Sort out safety, timing, and budget first, and the experience upgrades from 'rushed check-in' to 'relaxed visit'.",
+    "highlights": [
+      { "icon": "👟", "label": "Footwear", "value": "Wear non-slip flats", "note": "Boardwalks and lawns get slippery when wet; wear non-slip shoes, avoid heels; the lake breeze and dew are strong — watch children and seniors." },
+      { "icon": "🚧", "label": "By the water", "value": "Don't climb railings", "note": "Beyond the lakefront and boardwalk railings is Okyeonji Pond. Don't lean on or climb over them; keep a safe distance from the edge when taking photos, and follow on-site guidance." },
+      { "icon": "🌧️", "label": "Weather & Routine", "value": "Bring wind protection & water", "note": "The lakeside is windy, hot in summer and cold in winter; carry a windbreaker and water. On rainy days boardwalks are slippery — wear non-slip shoes." }
+    ],
+    "panels": [
+      {
+        "q": "Is there an entrance fee for Songhae Park?",
+        "a": "The park itself is free and open 24 hours, with no ticket or reservation needed. Some parking lots may charge — please follow on-site signs.",
+        "items": ["The park area is free and accessible anytime.", "Most parking is paid public parking; arrive early for a spot."]
+      },
+      {
+        "q": "Is it convenient with kids or seniors?",
+        "a": "The lakeside trail (송해둘레길) is flat and easy; wheelchairs and strollers can reach most viewpoints via the main path. But the lake side is windy and boardwalks can be slippery — hold children, assist seniors, and avoid windy periods."
+      },
+      {
+        "q": "Can I still go on a rainy day?",
+        "a": "Light rain is fine, but boardwalks are slippery and the lake breeze is strong — wear non-slip shoes and hold the railings. Follow on-site closure guidance during strong winds or maintenance."
+      }
+    ]
+  },
+  "complianceGuide": {
+    "title": "Songhae Park · Etiquette & Public-Environment Guide",
+    "subtitle": "This is both a visitor's lakeside park and the green living room where Dalseong-gun residents walk and exercise. Following these rules is double respect for nature and for others.",
+    "rules": [
+      {
+        "badge": "🚮",
+        "title": "Take your trash with you",
+        "text": "The park is by the water with limited bins; bring a small trash bag and take everything with you when you leave — especially cigarette butts, plastics, and food scraps — keeping lawns and boardwalks clean."
+      },
+      {
+        "badge": "🔇",
+        "title": "Quiet & courtesy, avoid peak times",
+        "text": "The lakeside is open with clear echoes; lower your voice, don't play music aloud, and leave space for those taking photos and pausing to enjoy the view."
+      },
+      {
+        "badge": "🚭",
+        "title": "No smoking & fire safety",
+        "text": "Lawns and some covered walkways are no-smoking zones; observe no-smoking and fire-safety signs, and don't smoke among wooden structures or crowds."
+      },
+      {
+        "badge": "🌱",
+        "title": "Protect flower fields & lake ecology",
+        "text": "The four-season flower fields and Okyeonji Pond are public natural assets — don't step on flower beds, pick plants, or throw things into the lake, keeping this waterside scenery safe and alive."
+      }
+    ]
+  },
+  "higashiyamaRoute": {
+    "title": "Custom Itinerary: Songhae Park Half-Day Route",
+    "subtitle": "Not just 'who it's for,' but a walkable half-day route you can follow directly. Centered on the Okyeonji loop and flower fields, linking the statue, wetlands, and photo spots.",
+    "steps": [
+      { "title": "[Start] Park entrance & Okyeonji shore", "meta": "Warm-up · ~30 min", "text": "From the entrance, stroll the lakeside trail slowly; lake breeze and waterbirds set the rhythm before you head to the flower fields and statue.", "tips": ["Morning and dusk have the best light and fewer crowds."] },
+      { "title": "[Main] Song Hae Trail loop", "meta": "Core experience · ~40 min", "text": "Walk the ~3.5 km lakeside loop (송해둘레길); beneath your feet are the ripples of Okyeonji, connecting flower fields and wetlands. This is the park's most expressive walk and the best vantage for understanding 'lake + flowers'.", "tips": ["The trail is flat and free; allow time for photos and pauses."] },
+      { "title": "[Extend] Four-season flower fields & photo spots", "meta": "Local story · ~40 min", "text": "Wander the azalea beds, cosmos, and pink muhly zones; read the signs to understand the park's blooming calendar and collect nature and memory together.", "tips": ["Flower beds are soft; stay on hard ground with company."] },
+      { "title": "[Refuel] Rest area & light meals", "meta": "Leisurely refuel · ~40 min", "text": "Hydrate at the rest area and nearby snacks, then look back at the statue and lake horizon, packing lake, flowers, and greenery into one walk.", "tips": ["Supplies are limited; bring your own water."] },
+      { "title": "[End] Song Hae statue or extend to Okpo", "meta": "Wrap-up · ~60 min+", "text": "If energy allows, photograph the Song Hae memorial statue, or extend to the nearby Okpo-eup neighborhood; otherwise return along the trail, completing the 'lake + flowers + statue + greenery' half-day package.", "tips": ["Statue light is best after morning; save photos for the end."] }
+    ],
+    "disclaimer": "The route above emphasizes a self-contained loop you can follow as-is. If you only want the flowers, keep the first two segments and treat the statue and rest as optional add-ons."
+  },
+  "intro": {
+    "title": "Getting to Know Songhae Park",
+    "description": "Songhae Park (Okyeonji, Korean: 송해공원 / 옥연지 송해공원) sits on the shore of Okyeonji Pond (옥연지) in Dalseong-gun, Daegu, Korea — a waterside eco park built around the lake. A roughly 3.5 km 'Song Hae Trail' (송해둘레길) loops the pond, linking lake views, four-season flower fields, a memorial statue of Song Hae, and photo spots, free and open 24 hours. It is named after Korea's beloved national MC Song Hae (송해, 1926–2022), who hosted the National Singing Contest (전국노래자랑) for decades and is the 'national grandfather' of generations of Koreans. Wrapping around the lake and serenely open, it is Dalseong-gun's green living room — best for slow walks, families, and photography.",
+    "visitGuide": {
+      "title": "Visitor Guide",
+      "eyebrow": "Practical Planning",
+      "description": "Songhae Park is a free lakeside park, open 24 hours with no gate. The ideal approach is rarely 'just wander by day' but to reverse-plan around the light: come at dawn for the softest light on the lake and flowers, or keep the statue and wetlands to yourself on a weekday. Facilities are restrained and commercial feel is low — which is exactly its charm.",
+      "items": [
+        "Dawn or dusk first: lakeside light is softest, and flowers with the statue frame best.",
+        "Best views are along the middle of the loop trail and the lakefront railings.",
+        "From central Daegu, take the metro to Okpo (옥포), then a bus or taxi about 10–20 min to the entrance.",
+        "There is little commercial supply inside; water, restrooms, and breaks are best done at the entrance rest area."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "The ~3.5 km 'Song Hae Trail' (송해둘레길) loop is flat, free, and Dalseong-gun's most recognizable waterside space",
+        "Named after national MC Song Hae, with a memorial statue and photo zone carrying generations of Korean memory",
+        "Okyeonji lakeside ecology — water on three sides, with waterbirds, morning mist, and lake sunrise",
+        "Four-season flower fields in turn: spring azaleas and rapeseed, autumn cosmos and pink muhly — an open-air flower classroom",
+        "Free and open 24 hours, managed by Dalseong-gun, visitable anytime"
+      ]
+    }
+  },
+  "transportSection": {
+    "title": "Transport & Arrival Guide",
+    "subtitle": "Consolidating outbound travel to Daegu, in-city transfers, walking/cycling, parking, and charging info for a clearer Songhae Park plan.",
+    "overviewTitle": "After arriving in Daegu",
+    "overviewText": "Songhae Park lies on the shore of Okyeonji Pond (옥연지) in Dalseong-gun, Daegu, Korea — Daegu's most recognizable lakeside park near the city. The easiest outbound option is KTX high-speed rail to Daegu (Dongdaegu Station) from Seoul or Busan, or a long-distance bus to Daegu; once in Dalseong-gun, a city bus or taxi from Okpo (옥포) takes about 10–20 minutes. Wrapping around the lake, you can enter the loop trail right from the drop-off point.",
+    "overviewText2": "The area around Songhae Park is lakeside green space with supporting parking. Plan transport, parking, and walking together — especially with seniors, young children, or luggage, parking then walking greatly reduces hassle.",
+    "arrivalTitle": "Remember before departure",
+    "arrivalItems": [
+      "The park is on the Okyeonji shore in Okpo-eup, Dalseong-gun; about a 10–20 min walk from the Okpo neighborhood to the entrance.",
+      "The park is free 24 hours, but night lighting is limited; daytime or dusk visits are more comfortable.",
+      "Weekends and clear days draw crowds; avoid peak times. Parking fills easily — arrive early."
+    ],
+    "modes": [
+      {
+        "label": "KTX / Long-distance bus (to Daegu)",
+        "icon": "🚄",
+        "title": "Outbound to Daegu",
+        "description": "Easiest for most travelers: KTX from Seoul or Busan to Daegu (Dongdaegu Station), or a long-distance bus to Daegu Intercity Bus Terminal — the classic way to Songhae Park.",
+        "details": [
+          "KTX from Seoul to Daegu about 1.5–2 hours (by train).",
+          "Then metro or taxi to Okpo, Dalseong-gun, about 40–60 minutes.",
+          "Use a T-money / transit card; metro, bus, and taxi connect easily."
+        ],
+        "steps": [
+          { "n": "1", "t": "Take KTX or long-distance bus to Daegu." },
+          { "n": "2", "t": "Transfer to metro or taxi to Okpo." },
+          { "n": "3", "t": "Walk to the lakeside entrance of Songhae Park." }
+        ]
+      },
+      {
+        "label": "Metro + city bus (to Okpo)",
+        "icon": "🚌",
+        "title": "In-city to the park",
+        "description": "Flexible and convenient: take the Daegu metro to Okpo (옥포), then a city bus or taxi to Songhae Park.",
+        "details": [
+          "Metro from Dongdaegu to Okpo about 40–60 minutes.",
+          "Then bus or taxi to the park about 10–20 minutes.",
+          "Buses take T-money; use a map app for real-time arrivals."
+        ],
+        "steps": [
+          { "n": "1", "t": "Take the metro to Okpo (옥포)." },
+          { "n": "2", "t": "Transfer to bus or taxi to the entrance." },
+          { "n": "3", "t": "Enter the park along the loop trail." }
+        ]
+      },
+      {
+        "label": "Okpo side (walk + shuttle)",
+        "icon": "🚉",
+        "title": "The hidden nearby option",
+        "description": "Okpo is the closest neighborhood to Songhae Park; a short shuttle bus or taxi from the station takes about 10–20 minutes — ideal for light packers who want a first look.",
+        "details": [
+          "Frequent buses in Okpo; closest to the park.",
+          "About 10–20 minutes from the station to the main sights.",
+          "Mornings and weekdays are best to avoid transfers and crowds."
+        ],
+        "steps": [
+          { "n": "1", "t": "Get off at Okpo by bus." },
+          { "n": "2", "t": "Transfer to bus or taxi, about 10–20 min." },
+          { "n": "3", "t": "Reach the loop trail and flower fields." }
+        ]
+      },
+      {
+        "label": "Driving (parking / charging)",
+        "icon": "🅿️",
+        "title": "Via Okyeonji-ro · nearby parking",
+        "description": "Good when traveling with seniors/children, lots of luggage, or touring Daegu; the park has supporting parking (mostly paid).",
+        "details": [
+          "Set navigation to '송해공원' or address '대구 달성군 옥포읍 기세리 306' (306 Gise-ri, Okpo-eup, Dalseong-gun, Daegu).",
+          "Plenty of spaces, but fills on weekends and holidays.",
+          "Some public lots have EV chargers; drive slowly and park properly near the busy lake."
+        ],
+        "steps": [
+          { "n": "1", "t": "Navigate to 'Songhae Park'." },
+          { "n": "2", "t": "Park in the lot, then walk in." },
+          { "n": "3", "t": "Avoid the 11:00–19:00 peak to save parking time." }
+        ]
+      },
+      {
+        "label": "Taxi / ride-hailing",
+        "icon": "🚕",
+        "title": "Door-to-door",
+        "description": "Most convenient with luggage, seniors/children, or late arrivals.",
+        "details": [
+          "Taxi from Daegu Station or downtown to Songhae Park about 40–60 minutes, metered.",
+          "You'll walk in from the park vicinity.",
+          "Taxis queue in peak and rainy seasons; reserve via a local app like Kakao T."
+        ],
+        "steps": [
+          { "n": "1", "t": "Call a car via Kakao T or similar." },
+          { "n": "2", "t": "Tell the driver '송해공원'." },
+          { "n": "3", "t": "Get off near the park and walk in." }
+        ]
+      },
+      {
+        "label": "Walk (lakeside greenway)",
+        "icon": "🚶",
+        "title": "From Okpo to the park",
+        "description": "If you're already in Okpo or on Okyeonji-ro, walking is the most natural way to observe the lakeside greenway and flower fields.",
+        "details": [
+          "About a 10–20 minute walk from Okpo to the park.",
+          "Pass lawns, lake shore, and flower fields along the way.",
+          "Flat paths; wear comfortable shoes and watch children and belongings."
+        ]
+      },
+      {
+        "label": "Cycling / greenway walk",
+        "icon": "🚲",
+        "title": "Lakeside slow travel",
+        "description": "The most relaxing way to feel Okyeonji and the flower fields.",
+        "details": [
+          "Flat along the loop road; walk to connect trail, statue, and flower fields.",
+          "Park bikes at designated racks; don't ride into wetlands or crowded areas.",
+          "About 10–20 minutes from Okpo to the park, with greenery throughout."
+        ]
+      }
+    ],
+    "parking": {
+      "title": "Parking & Charging Overview",
+      "note": "Songhae Park has supporting parking (mostly paid). Below are the nearest main options; rates and availability vary by season and time — please follow on-site signs.",
+      "colOption": "Parking option",
+      "colDistance": "Distance",
+      "colPrice": "Price",
+      "options": [
+        { "name": "Songhae Park lot", "distance": "about 50–200 m (to entrance)", "price": "Paid public parking, fills in peak season" },
+        { "name": "Okpo neighborhood parking", "distance": "about 300–800 m", "price": "Public / paid, more spaces but tight in peak" },
+        { "name": "Nearby street parking", "distance": "about 200–500 m", "price": "Roadside / small lots, few spaces, easier on weekdays" },
+        { "name": "Dalseong-gun transfer lot", "distance": "about 1.5–3 km", "price": "Transfer discount parking, needs shuttle" },
+        { "name": "Drop-off point (near park)", "distance": "about 50–100 m", "price": "Short stop only, no spaces" }
+      ],
+      "disclaimer": "Roads near the park congest on holidays and clear days; don't occupy bus or fire lanes for long. EV chargers are mostly in public lots; rates and limits may change — check posted signs."
+    },
+    "driverFaqTitle": "Transport FAQ",
+    "driverFaq": [
+      { "q": "Is there parking near Songhae Park?", "a": "The park has supporting parking (mostly paid), within walking distance. It fills easily on weekends and holidays — arrive early or prefer public transport." },
+      { "q": "What is the nearest parking?", "a": "The Songhae Park lot is about 50–200 m away, closest to the entrance; Okpo neighborhood parking is about 300–800 m, more spaces but tight in peak." },
+      { "q": "Is there roadside parking nearby?", "a": "Little. Roads are narrow and congested on holidays; don't park roadside long — use proper lots and public transport." },
+      { "q": "Is driving recommended?", "a": "Unless parking is essential, no. Weekends and clear days congest; walking or public transport is smoother. If driving, park then walk in." },
+      { "q": "Do you recommend public transport?", "a": "Strongly. After KTX or bus to Daegu, transfer to Okpo by metro, then walk or taxi about 10–20 min to the park. Address: 306 Gise-ri, Okpo-eup, Dalseong-gun, Daegu, Korea." },
+      { "q": "What is the best route?", "a": "For stability and ease, public transport remains optimal: KTX/bus to Daegu, then transfer. If driving is unavoidable, treat parking and shuttle as part of the trip, not 'drive to the door'." }
+    ],
+    "localTipsTitle": "Practical visiting tips",
+    "localTips": [
+      "Mornings and dusk remain golden; set arrival about 60 minutes before sunset for the best flower-and-statue reflections on the lake.",
+      "Weekends and clear days draw crowds; with kids or gear, allow buffer and avoid peaks.",
+      "Best pair Songhae Park with the Okyeonji loop and Song Hae statue; a single stop underestimates its lake-and-flower value."
+    ],
+    "mapsCta": "View map & route",
+    "mapsUrl": "https://maps.app.goo.gl/b9a3wYNpbV6XyTJs7",
+    "bestTime": {
+      "title": "Best time to arrive",
+      "text": "Songhae Park is reachable 24 hours, but what truly sets the photo ceiling is the dawn and dusk light windows. Arrive about 60 minutes before sunset; if weather isn't good for photos, shift focus to the loop trail or statue views."
+    }
+  },
+  "officialManagement": {
+    "title": "About this lakeside park",
+    "text": "Songhae Park lies on the shore of Okyeonji Pond (옥연지) in Dalseong-gun, Daegu, Korea — a citizen's lakeside park transformed from former lakeside greenery and waterfront facilities, maintained and operated by Dalseong-gun as public space. It has long been a waterfront living room shared by residents strolling, travelers visiting, and families, and is one of Dalseong-gun's city cards of 'lake, flowers, and memory'."
+  },
+  "humanities": {
+    "title": "People & Place: From Song Hae to Okyeonji",
+    "subtitle": "Putting the life of Korea's national MC Song Hae, the toponym memory of Okyeonji, the modern design of the loop trail, and the four-season flower fields on one timeline is how you truly understand why this park is more than 'a pretty lake'."
+  },
+  "knowledge": {
+    "title": "History & Origins of Songhae Park",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Song Hae the person: life of a national MC",
+        "content": "Song Hae (송해, born Song Byeong-yeop, 1926–2022) was Korea's most representative comedian, singer, and host. From 1988 he hosted KBS's National Singing Contest (전국노래자랑) for over thirty years, becoming the 'national grandfather' of generations of Koreans with his warm smile and the line 'sing your heart out.' In his later years he was made an honorary citizen of Dalseong-gun; naming the park after him is the locality's plain tribute to an artist who accompanied the nation for decades."
+      },
+      {
+        "id": "name",
+        "title": "The name 'Okyeonji' & toponym memory",
+        "content": "'Okyeon' (옥연) means 'a deep, jade-like pond.' Okyeonji Pond (옥연지) is a natural lakeside body in Okpo, Dalseong-gun, whose name carries the locality's long memory of this clear water. Named 'Okyeonji Songhae Park,' toponym, water, and person interlock on the same green space."
+      },
+      {
+        "id": "development",
+        "title": "Birth of the park (2016–)",
+        "content": "Songhae Park began formal upgrades to Okyeonji's waterfront facilities in 2016, and from 2020 onward successively added four-season theme gardens, lakeside boardwalks (데크길), a memorial statue of Song Hae, and multiple photo zones, gradually becoming Dalseong-gun's representative free lakeside park, maintained by Dalseong-gun."
+      },
+      {
+        "id": "flowers",
+        "title": "Four-season flower fields & flower culture",
+        "content": "The park is known for seasonal flowers: spring azaleas (진달래) and rapeseed bloom first, summer greens the pond, and autumn brings cosmos (코스모스), pink muhly (핑크뮬리), and silver grass. The flower fields are not just scenery but an open-air flower classroom on Daegu's outskirts."
+      },
+      {
+        "id": "trail",
+        "title": "Song Hae Trail (loop trail)",
+        "content": "The 'Song Hae Trail' (송해둘레길) built along Okyeonji is about 3.5 km — the park's most iconic modern facility. Flat and free, it connects the statue, flower fields, wetlands, and lakefront railings in a loop you can walk without backtracking, the main axis for daily strolls and visitor photos."
+      },
+      {
+        "id": "statue",
+        "title": "Song Hae memorial statue & memorial space",
+        "content": "The park has a memorial statue and photo zone for Song Hae (송해), honoring the songs and smiles he shared with Koreans for decades. The statue is both the central photo landmark and a way the 'person–place–memory' relationship keeps being told in the park."
+      },
+      {
+        "id": "legend",
+        "title": "The legend of Okyeonji (local oral tradition)",
+        "content": "About Okyeonji, local oral stories tie to a 'spirit of the deep pond': it is said the clear, deep water was long regarded as a sacred place, and in drought years people prayed for rain, believing a guardian spirit lived in the pond. Such legends may not appear in official histories, but they let the public sense how this land was imagined and cherished — exactly the value a non-profit science guide should amplify."
+      },
+      {
+        "id": "ecology",
+        "title": "Lake ecology of Okyeonji (science perspective)",
+        "content": "Okyeonji is a typical peri-urban still-water body. Shore vegetation, wetlands, and open water together form habitat for waterbirds and insects; seasonal water levels and vegetation shape different lake appearances. From base to observation below, understand how this lake became an urban green kidney with both scenic and educational value.",
+        "cards": [
+          {
+            "title": "Water body base",
+            "text": "Okyeonji is a relatively closed still-water lake, with levels tied to groundwater and rainfall. Stable water lets shore vegetation and wetlands develop into a continuous green belt."
+          },
+          {
+            "title": "Shaping process",
+            "text": "The shoreline formed not at once but by long-term sediment accumulation, vegetation stabilizing banks, and water-level fluctuation. Gentle slopes and boardwalks let people approach the water without harming ecology."
+          },
+          {
+            "title": "On-site observation",
+            "text": "Observe together with flower fields, wetlands, and lakefront railings. Reading alongside official signs makes it easier to understand how the lake and surrounding greenery determine the park's ecological form."
+          }
+        ],
+        "fieldNote": {
+          "title": "Observation tip",
+          "text": "First take in Okyeonji's overall outline from a high lakeside point, then return to the trail to observe shore vegetation and wetlands up close. Distance views show overall form; close views reveal the ecological mechanism."
+        },
+        "academicNote": {
+          "title": "Academic note",
+          "text": "This section is a science overview based on public park interpretation and on-site features. For stricter hydrological and ecological classification, rely on official materials, on-site signs, and academic research."
+        }
+      }
+    ],
+    "didYouKnow": {
+      "title": "Did you know?",
+      "text": "Songhae Park is more than lakeside greenery — it is an open-air classroom of personal memory and urban ecology: from the life of national MC Song Hae and the toponym of Okyeonji, to the 3.5 km Song Hae Trail and four-season flower fields, the story of land and people is written on the same shore of Okyeonji."
+    }
+  },
+  "sitePlaques": {
+    "title": "Reading the On-site Signs & Interpretation",
+    "subtitle": "When you visit Songhae Park, what's worth reading slowly is often not the check-in board but the official signs explaining 'why this water is here'.",
+    "locationLabel": "On-site location",
+    "intro": "The readings below are based on Dalseong-gun's Okyeonji, Song Hae Trail, flower-field, statue, toponym, and ecology signage, translating information visible on-site but not always read into accessible English science notes.",
+    "items": [
+      {
+        "id": "monument",
+        "badge": "Park history sign",
+        "title": "Songhae Park & Okyeonji",
+        "koTitle": "송해공원 연혁",
+        "koTitleZh": "Songhae Park History",
+        "location": "Main park entrance",
+        "body": "These signs usually state the key background: the meaning of Songhae Park as an Okyeonji lakeside park, and its naming relationship with national MC Song Hae. Reading the hints is lesson one in using this lakeside landmark."
+      },
+      {
+        "id": "signboard",
+        "badge": "Trail guide (KO/EN)",
+        "title": "Song Hae Trail (loop)",
+        "koTitle": "송해둘레길 안내",
+        "koTitleZh": "Song Hae Loop Trail Guide",
+        "location": "Trail entrance",
+        "body": "The guide repeats the trail's status as a loop landmark and reminds visitors: half its charm is the open lakefront view, half the real water and flower shadows at your feet. The signs explain clearly 'why a loop trail'."
+      },
+      {
+        "id": "wooden",
+        "badge": "Flower-field interpretation",
+        "title": "Four-season flower fields",
+        "koTitle": "계절 꽃밭 안내",
+        "koTitleZh": "Four-season Flower Bed Guide",
+        "location": "Flower-field viewing area",
+        "body": "The map explains 'why this is a flower hotspot': Okyeonji's terrain and soil let seasonal flowers bloom in turns. Seen with the loop trail, the park's design logic is clear — personal memory and citizen recreation coexist."
+      },
+      {
+        "id": "dongporu",
+        "badge": "Song Hae statue marker",
+        "title": "Song Hae memorial statue",
+        "koTitle": "송해 동상 안내",
+        "koTitleZh": "Song Hae Statue Guide",
+        "location": "Statue plaza",
+        "body": "Erected by Dalseong-gun, it marks the memorial relationship between the park and Song Hae (송해), echoing the 'national MC' motif. It reminds every visitor: this green belt connects Koreans' warmest collective memory with the most transparent lakeside experience."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "From the light on Okyeonji, the loop boardwalk of Song Hae Trail, to the colors of four-season flower fields — see the visual beauty of Songhae Park.",
+    "photoAlt": "Songhae Park (Okyeonji)",
+    "photoAlts": [
+      "Panorama of Songhae Park with Okyeonji's surface and lakeside green belt.",
+      "Quiet loop trail at dawn, perfect for slow lakeside detail shots.",
+      "Lakefront boardwalk in golden dusk light, mirror-like reflections.",
+      "Close-up of railings and shore, full of waterside feeling.",
+      "Overhead shot: Okyeonji ripples and opposite flower fields below.",
+      "High vantage: park and lakeside green belt as landscape.",
+      "Open view along the loop trail, lake horizon stretching ahead.",
+      "Warm family stroll on the lawn, ideal for slow family visits.",
+      "Blue-and-white guide signs echoing the water theme.",
+      "Trail as a leading line, framing flower fields and sky together.",
+      "Lakefront side of the loop trail, one of the best photo spots.",
+      "Song Hae memorial statue in the distance, with the lake view.",
+      "Warm flower fields at dusk, golden light on petals.",
+      "Loop trail and lake together, best from dawn to dusk.",
+      "Statue as a street-scene subject, echoing the memorial theme.",
+      "High panorama packing 'lake—flowers—statue—greenery' in one frame.",
+      "Boardwalk lights and shore at night, a quiet waterfront.",
+      "Warm-toned lawn, public space gently embraced by nature.",
+      "Railings and trail under night lights, a golden photo combo.",
+      "Lake sunrise, first light spreading across the petals."
+    ],
+    "viewAll": "View location on Google Maps",
+    "showMore": "Show more photos",
+    "mapsUrl": "https://maps.app.goo.gl/b9a3wYNpbV6XyTJs7"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback is available on Google Maps (external link).",
+    "featuredTitle": "Visitor Quotes",
+    "featuredSubtitle": "A few short lines that capture the spirit of Songhae Park.",
+    "moreReviews": "View on Google Maps",
+    "mapsUrl": "https://maps.app.goo.gl/b9a3wYNpbV6XyTJs7",
+    "featured": [
+      {
+        "text": "Walking the 3.5 km Song Hae Trail slowly, with Okyeonji's ripples at your feet — that lakeside calm is special, and at dusk the light makes it feel like floating on the water.",
+        "source": "Independent traveler · Seoul"
+      },
+      {
+        "text": "A free and open lakeside park, steps from the Song Hae statue — Daegu's most underrated corner near the city.",
+        "source": "Photography enthusiast · Daegu"
+      },
+      {
+        "text": "Walking the loop trail with my child, he watched the flower fields and listened to Grandpa Song Hae's stories; even my parents walked easily.",
+        "source": "Family · Daegu"
+      }
+    ],
+    "items": [
+      {
+        "name": "Minjun",
+        "date": "May 2026",
+        "rating": 5,
+        "text": "Visited at dawn; the loop trail backlit is so photogenic, and the moment by the lake was completely silent — strongly recommend sunrise, best light."
+      },
+      {
+        "name": "Seoyeon",
+        "date": "Apr 2026",
+        "rating": 5,
+        "text": "The 3.5 km Song Hae Trail composition is healing; about 15 min from Okpo, lake breeze is strong so dress warm."
+      },
+      {
+        "name": "Jihun",
+        "date": "Mar 2026",
+        "rating": 4,
+        "text": "Worth it as free public space; weekends are crowded — weekdays or mornings are more comfortable."
+      },
+      {
+        "name": "Ha-eun",
+        "date": "Feb 2026",
+        "rating": 5,
+        "text": "About 15 min by bus from Okpo to the park; the lakeside and flower fields along the way are pleasant for a half-day stroll."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get There",
+    "subtitle": "306 Gise-ri, Okpo-eup, Dalseong-gun, Daegu, Korea (Plus Code: QFCM+QP) · Tel +82 53-668-2000",
+    "openMaps": "Open in Google Maps",
+    "mapsUrl": "https://maps.app.goo.gl/b9a3wYNpbV6XyTJs7"
+  },
+  "footer": {
+    "siteName": "Songhae Park (Okyeonji · 송해공원)",
+    "rights": "© 2026 Songhae Park Guide — an independent non-profit visitor-information project. All rights reserved.",
+    "mission": {
+      "title": "Our Mission",
+      "text": "So that every traveler who comes to Daegu won't miss the lake and flower fields on the shore of Okyeonji, we have gathered scattered official information into this guide — to give you the purest experience of 'by the lake, among the flowers, reading a life'."
+    },
+    "legalLinksTitle": "Privacy & Terms",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official & Reference Resources",
+    "mapsLabel": "Google Maps →",
+    "mapsUrl": "https://maps.app.goo.gl/b9a3wYNpbV6XyTJs7",
+    "officialLinksList": [
+      { "name": "Dalseong-gun Official Culture & Tourism · Okyeonji Songhae Park", "url": "https://www.dalseong.daegu.kr/culture/index.do?menu_id=00001956&menu_link=front/tour/tourMapsViewFromMain.do&tourId=120" },
+      { "name": "Daegu Metropolitan City Official Tourism · Okyeonji Songhae Park", "url": "https://tour.daegu.go.kr/index.do?menu_id=00002943&menu_link=/front/tour/tourMapsView.do?tourId=KOATTR_387" },
+      { "name": "Korea Tourism Organization · Okyeonji Songhae Park core area", "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=413b7a3a-82c1-47ac-98b2-c57b4d59bb7c" },
+      { "name": "Korea Tourism Organization · Song Hae Trail ecology route", "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=e759f151-dc6e-486f-b91b-0a36a4dd6211" },
+      { "name": "Dalseong-gun Official Food Guide · Okyeonji Songhae Park food street", "url": "https://www.dalseongfood.go.kr/area/info.asp?Talley=TL-7&Tpart=2" }
+    ],
+    "disclaimer": "This website is an independent non-profit visitor-information project. We are not affiliated with any government agency or official organization.",
+    "dataSource": "Information cited on this site is cross-checked against public materials from Dalseong-gun, the Daegu Metropolitan Government, and the Korea Tourism Organization (VisitKorea), with no commercial endorsements.",
+    "dataSourceLabel": "Data Source"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "content": "We do not normally actively collect users' personal identity information. Any information you provide via contact forms or email will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Use of Information",
+        "content": "Information we collect is used solely to provide, maintain, and improve our services and to communicate with you. We will not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies & Tracking",
+        "content": "We use cookies and similar tracking technologies to record activity on the site and store certain information. You can instruct your browser to refuse all cookies or to alert you when a cookie is sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "Your data security matters to us. We take commercially acceptable measures to protect your personal data, though no internet transmission is 100% secure."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these Terms of Service. If you disagree with any part, you may not use the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent non-profit visitor-information project. The information provided is for general informational purposes only. You agree to use the website responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website, including text, images, and logos, unless otherwise noted, is the property of the site owner. Unauthorized use, reproduction, or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We are not liable for any direct, indirect, incidental, or consequential damages arising from the use or inability to use this website or the information it contains."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Strictly Necessary Cookies",
+      "description": "Required for basic website functions.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save preferences",
+    "saved": "Preferences saved!"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Practical information about Songhae Park's facilities, history, and visit planning.",
+    "amenities": {
+      "title": "Nearby Facilities",
+      "items": [
+        { "icon": "🅿️", "label": "Parking", "value": "Nearby supporting lots (mostly paid)" },
+        { "icon": "🚻", "label": "Restrooms", "value": "Entrance rest area & public toilets" },
+        { "icon": "🔌", "label": "Fuel / Charging", "value": "EV chargers in public lots" },
+        { "icon": "♿", "label": "Accessibility", "value": "Flat trails accessible" }
+      ]
+    },
+    "categories": [
+      {
+        "id": "infra",
+        "title": "Transport & Infrastructure",
+        "items": [
+          {
+            "q": "Is there parking, and what does it cost?",
+            "a": "The park has supporting parking (mostly paid), within walking distance. It fills easily on weekends and holidays — arrive early or prefer public transport."
+          },
+          {
+            "q": "Are wheelchairs or strollers allowed?",
+            "a": "Songhae Park has flat loop trails; wheelchairs and strollers can reach most viewpoints via the main path. But the lake side is windy and boardwalks slippery — stay on hard ground with company."
+          },
+          {
+            "q": "Are there restrooms or food inside?",
+            "a": "As open lakeside greenery, restrooms and snacks concentrate at the entrance rest area and nearby; resupply water and food there before entering."
+          },
+          {
+            "q": "Is there fuel or EV charging nearby?",
+            "a": "Public lots have EV chargers; traditional gas stations line Daegu city and Dalseong-gun — self-drivers can refuel on the way into the city."
+          }
+        ]
+      },
+      {
+        "id": "geo",
+        "title": "History & Science",
+        "items": [
+          {
+            "q": "What is the connection between 'Songhae Park' and Song Hae?",
+            "a": "Song Hae (송해, 1926–2022) was Korea's national MC, hosting KBS's National Singing Contest for decades. Made an honorary citizen of Dalseong-gun, the park is named after him to honor the songs and smiles he shared with Koreans for years."
+          },
+          {
+            "q": "What is its special natural and cultural value?",
+            "a": "Songhae Park is not a themed amusement park but a public waterfront space turning Okyeonji's still-water lake into personal memory, four-season flowers, loop trails, and wetland ecology. Flower fields, statue, and lake form a low-impact, high-empathy design — one of Dalseong-gun's city cards of 'lake and memory'."
+          }
+        ]
+      },
+      {
+        "id": "plan",
+        "title": "Planning & Tickets",
+        "items": [
+          {
+            "q": "Is a ticket required?",
+            "a": "Songhae Park itself is free and open 24 hours, with no gate, ticket, or reservation needed — visit anytime (please respect the public environment and avoid late-night noise)."
+          },
+          {
+            "q": "How long does a visit take?",
+            "a": "A relaxed walk takes about 1–2 hours (including trail and photo stops); allow half a day if you also visit the statue, flower fields, and Okpo neighborhood."
+          },
+          {
+            "q": "Can I go in bad weather?",
+            "a": "Yes — the park is open space, visitable in any weather. But boardwalks are slippery and the lake breeze strong in rain; take wind and slip precautions, wear non-slip shoes, and watch the weather."
+          }
+        ]
+      },
+      {
+        "id": "nearby",
+        "title": "Nearby Connections",
+        "items": [
+          {
+            "q": "What else is worth visiting nearby?",
+            "a": "From Songhae Park you can link the Okyeonji loop, Song Hae statue, Okpo-eup neighborhood, and other Dalseong-gun sights into a half-day 'lake—flowers—statue—greenery' waterfront route."
+          }
+        ]
+      }
+    ]
+  },
+  "recommendations": {
+    "title": "Explore More of Daegu",
+    "attractionsTitle": "Nearby Attractions",
+    "toursTitle": "Recommended Experiences",
+    "attractions": [
+      { "name": "Dalseong-gun Official Culture & Tourism (Okyeonji Songhae Park)", "url": "https://www.dalseong.daegu.kr/culture/index.do?menu_id=00001956&menu_link=front/tour/tourMapsViewFromMain.do&tourId=120" },
+      { "name": "Daegu Metropolitan City Official Tourism (Okyeonji Songhae Park)", "url": "https://tour.daegu.go.kr/index.do?menu_id=00002943&menu_link=/front/tour/tourMapsView.do?tourId=KOATTR_387" },
+      { "name": "Korea Tourism Organization (Okyeonji Songhae Park core area)", "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=413b7a3a-82c1-47ac-98b2-c57b4d59bb7c" },
+      { "name": "Korea Tourism Organization (Song Hae Trail ecology route)", "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=e759f151-dc6e-486f-b91b-0a36a4dd6211" },
+      { "name": "Dalseong-gun Official Food Guide (Okyeonji Songhae Park food street)", "url": "https://www.dalseongfood.go.kr/area/info.asp?Talley=TL-7&Tpart=2" }
+    ],
+    "tours": [
+      { "name": "Korea Tourism Organization (VisitKorea)", "url": "https://korean.visitkorea.or.kr" },
+      { "name": "Daegu Metropolitan City Tourism (Daegu Tourism)", "url": "https://tour.daegu.go.kr" },
+      { "name": "Dalseong-gun (Dalseong-gun)", "url": "https://www.dalseong.daegu.kr" }
+    ]
+  },
+  "scienceArt": {
+    "title": "Park & City: Lake, Flowers & the National MC",
+    "subtitle": "Dig below the surface 'pretty' to find what's truly rare about this park: it is at once public lakeside greenery, a personal memory, and an open-air urban waterfront classroom.",
+    "scienceMuseum": {
+      "name": "Song Hae & Dalseong-gun's memory",
+      "role": "The personal story behind the statue",
+      "highlight": "The hardest core of Songhae Park is both visible and invisible. Visible are the loop trail and Okyeonji's lake views; invisible is the 'national MC' narrative and Koreans' collective memory. Visitors see landscape; nostalgics see Song Hae placed on this lakeshore as a local text.",
+      "points": [
+        "Core: personal memory, flower symbols, and urban geography light up this shore together.",
+        "Key: public lakefront facilities turned into a low-impact, high-empathy memory classroom.",
+        "Meaning: it upgrades the 'urban green kidney' into a memory template the public can pilgrimage to."
+      ],
+      "ctaLabel": "Visit Dalseong-gun ↗",
+      "ctaUrl": "https://www.dalseong.daegu.kr"
+    },
+    "artMuseum": {
+      "name": "Seasonal symbols in the flower fields",
+      "role": "Songhae Park's cultural symbol",
+      "highlight": "Flower fields, loop trail, and Song Hae statue, together with Okyeonji, form Songhae Park's identity system: instantly reading as Dalseong-gun, as Okyeonji, and as a gentle, transparent waterfront aesthetic. From lake views to golden flower light, this contrast makes it one of Daegu's most memorable urban images.",
+      "points": [
+        "Imagery: lake, flowers, statue form a strong identity.",
+        "Status: one of Daegu's most photogenic lakeside parks.",
+        "Narrative: it translates the personal theme into a publicly felt aesthetic."
+      ],
+      "ctaLabel": "Visit Daegu Tourism ↗",
+      "ctaUrl": "https://tour.daegu.go.kr"
+    }
+  },
+  "outdoorMuseum": {
+    "title": "Photography & Photo Guide: Songhae Park Spots",
+    "subtitle": "As Daegu's most recognizable lakeside park, a few structured spots and times greatly improve your photos' usefulness and beauty.",
+    "items": [
+      {
+        "id": "sunrise",
+        "icon": "🌅",
+        "name": "Loop trail · lakefront view",
+        "location": "Trail middle",
+        "background": "From dawn to dusk, Okyeonji's ripples at your feet make the classic 'trail—lake' composition; railings silhouette beautifully backlit.",
+        "points": [
+          "Use the trail as a leading line toward the lake.",
+          "Crouch low to layer trail and water for a steadier frame."
+        ],
+        "badge": { "value": "Dawn", "label": "Best shot" }
+      },
+      {
+        "id": "bridge",
+        "icon": "🌉",
+        "name": "Lakefront railings · flower overlook",
+        "location": "Lakefront side of trail",
+        "background": "From the lakefront side, frame 'trail + Okyeonji + flower fields' together — Songhae Park's most recognizable spot.",
+        "points": [
+          "Side light on railings at dawn is softest.",
+          "Watch your step and crowds; don't enter closed areas for composition."
+        ],
+        "badge": { "value": "All day", "label": "Most accessible" }
+      },
+      {
+        "id": "sea",
+        "icon": "🌸",
+        "name": "Four-season flower fields",
+        "location": "Flower-field viewing area",
+        "background": "The flower fields' colors are the park's most atmospheric window; paired with the Song Hae statue, morning light on flowers sparks the imagination.",
+        "points": [
+          "Shoot in blue hour; sky and lake colors balance best.",
+          "Leave large warm sky with flower-field silhouettes."
+        ],
+        "badge": { "value": "Bloom", "label": "Most atmospheric" }
+      },
+      {
+        "id": "night",
+        "icon": "🌃",
+        "name": "Night lights",
+        "location": "Trail toward statue",
+        "background": "After dark, railings and trail lights glow; Songhae Park reflects a river of lights — ideal for closing long-exposure night shots and lakeside portraits.",
+        "points": [
+          "Use lights as a leading line toward the distance.",
+          "Raise ISO or use stabilization for night frames."
+        ],
+        "badge": { "value": "Night", "label": "Best layers" }
+      }
+    ]
+  },
+  "education": {
+    "title": "Why is this Dalseong-gun's lakeside landmark?",
+    "subtitle": "What's most worth learning about Songhae Park isn't 'it got prettier' but how it re-integrated Okyeonji's still-water lake into the public's personal memory while keeping reverence for nature.",
+    "points": [
+      {
+        "title": "A lakeside living room still used by citizens",
+        "text": "Songhae Park isn't a 'hide the lake and done' case, but a model that activates personal memory through public-space design and turns it into shared place.",
+        "items": [
+          "Citizens give daily strolls and pilgrimages to this water and flowers.",
+          "Public space and the urban lakefront coexist long-term."
+        ]
+      },
+      {
+        "title": "Writing memory ethics into visitor behavior",
+        "text": "Signs, loop trail, and guide systems aren't just navigation but let every visitor, while using the space, casually respect public environment and others.",
+        "items": [
+          "Visitors are guided to stay on low-impact paths.",
+          "Viewing experience and public life don't sacrifice each other."
+        ]
+      },
+      {
+        "title": "Translating personal memory into public aesthetics",
+        "text": "Songhae Park didn't erase the personal background but, through statue, flowers, and signage, lets the public sense what this land has been through while visiting.",
+        "items": [
+          "Story depth and viewing experience complete in one place.",
+          "Exactly the value a non-profit science site should amplify."
+        ]
+      }
+    ]
+  },
+  "plantGuide": {
+    "title": "Okyeonji's Four-Season Flower Calendar",
+    "subtitle": "Dig below 'pretty flowers' to find what's truly rare about Songhae Park: it turns a peri-urban lake into an open-air flower classroom that changes with the seasons.",
+    "comparison": [
+      {
+        "icon": "🌸",
+        "badge": "Spring flowers",
+        "name": "Azalea & Rapeseed",
+        "summary": "Spring is the first season to wake in Songhae Park. Azaleas (진달래) blanket trails and slopes, with golden rapeseed, forming Daegu's brightest lakeside palette.",
+        "points": [
+          "Bloom roughly March–April as temperatures rise.",
+          "Azaleas are low and mass-planted — the base color of the loop trail.",
+          "Paired with lake reflections, most springtime energetic."
+        ]
+      },
+      {
+        "icon": "🍂",
+        "badge": "Autumn flowers",
+        "name": "Cosmos & Pink Muhly",
+        "summary": "Autumn is the park's most popular season. Cosmos (코스모스) ripple in the wind, pink muhly (핑크뮬리) hazes into pink mist, and silver grass lights the shore.",
+        "points": [
+          "Bloom roughly September–November, peak in crisp autumn.",
+          "Pink muhly best shot backlit at dusk.",
+          "With statue and lake, a warm autumn image."
+        ]
+      }
+    ],
+    "seasonTitle": "Seasonal Highlights",
+    "seasonSubtitle": "One lakeshore, four tempers. Below, the flowers and scenes most worth expecting each season.",
+    "seasons": [
+      {
+        "icon": "🌱",
+        "badge": "SPRING",
+        "name": "Spring · Azalea & Rapeseed",
+        "summary": "As it warms, azaleas and rapeseed lead the shore — the best season for family outings and morning shots.",
+        "highlights": [
+          "Azaleas (진달래) massed along the trail.",
+          "Golden rapeseed against green lake, strong contrast.",
+          "Calm lake at dawn, clearest reflections."
+        ]
+      },
+      {
+        "icon": "🌿",
+        "badge": "SUMMER",
+        "name": "Summer · Green Pond",
+        "summary": "Midsummer greens are lushest; shaded lake-side trees make it a cool stroll and good for waterbirds.",
+        "highlights": [
+          "Loop trail shaded, more comfortable feel.",
+          "Avoid midday sun; mornings and dusk.",
+          "Wetlands active with waterbirds, good for slow watching."
+        ]
+      },
+      {
+        "icon": "🍁",
+        "badge": "AUTUMN",
+        "name": "Autumn · Cosmos & Pink Muhly",
+        "summary": "The year's most popular season. Cosmos, pink muhly, and silver grass take turns, dyeing the shore a pink-gold palette.",
+        "highlights": [
+          "Cosmos (코스모스) ripple like waves.",
+          "Pink muhly (핑크뮬리) hazy backlit.",
+          "Softest dusk light, highest photo rate."
+        ]
+      },
+      {
+        "icon": "❄️",
+        "badge": "WINTER",
+        "name": "Winter · Quiet Shore",
+        "summary": "After foliage falls, the shore is more open and quiet — a crisp season for morning mist and lake sunrise.",
+        "highlights": [
+          "Morning mist over the lake, distant and pure.",
+          "Clear-day sunrise gold on water, best for slow shots.",
+          "Dress warm and mind the lakefront wind."
+        ]
+      }
+    ]
+  },
+  "audience": {
+    "title": "Who Should Come? Upgrade Segment Guides to Custom Itineraries",
+    "subtitle": "Not just 'you'll like it,' but directly telling you how to walk, where to go first, and which Daegu nodes to link.",
+    "resonanceLabel": "Resonance: ",
+    "routeLabel": "Recommended module: ",
+    "tipLabel": "Tip: ",
+    "items": [
+      {
+        "icon": "👨‍👩‍👧",
+        "group": "Families",
+        "resonance": "Free, open, flat loop trail — kids can watch flower fields, hear Grandpa Song Hae's stories, see the lake, and easily reach the statue along the flat side.",
+        "tip": "Spend energy on photo stops, not on crowding."
+      },
+      {
+        "icon": "📷",
+        "group": "Photographers & Couples",
+        "resonance": "Backlit flower fields at dawn are Daegu's most romantic frames, with very high hit rate.",
+        "tip": "Count arrival, return, and light into the plan so composition isn't beaten by on-site pace."
+      },
+      {
+        "icon": "🌿",
+        "group": "Memory & Ecology Lovers",
+        "resonance": "As a personal-memory sample, Song Hae's life, trail design, and Okyeonji ecology are worth a close look.",
+        "tip": "Avoid the most crowded weekends; choose dawn or a weekday afternoon to really observe details."
+      },
+      {
+        "icon": "🗺️",
+        "group": "First-time Visitors to Korea",
+        "resonance": "Without going far, experience Korean personal culture and urban lake ecology near Daegu, while linking metro, buses, and local food — an ideal start to Dalseong-gun's 'lake and memory' character.",
+        "tip": "If you can only pick one Daegu outskirts landmark, Songhae Park best opens the 'person and city' theme."
+      }
+    ]
+  },
+  "lodging": {
+    "title": "Lodging Guide: Stay Close, or Stay Convenient",
+    "subtitle": "Daegu is a city where 'industry, education, and lakes' coexist. We don't recommend specific hotels but help you parse two lodging patterns to choose what fits.",
+    "scenarioTitle": "Two choices, how to choose",
+    "options": [
+      {
+        "icon": "🌳",
+        "name": "Dalseong-gun / Okpo area",
+        "role": "Closest to park & lake",
+        "highlight": "Staying in Dalseong-gun or Okpo (옥포) puts you a short drive or walk from Songhae Park, Okyeonji, and flower fields; the lake breeze and sunrise at dawn suit travelers best. Ideal for those focused on 'lake stroll + flowers' with high convenience needs.",
+        "commute": "Commute: to the park about 10–20 min walk or bus. Walking is easy on the legs, good for dawn lakeside.",
+        "points": [
+          "Loop trail 10–20 min by walk or bus, least effort.",
+          "Lake, snacks, and flower fields extremely rich.",
+          "More choices, usually better value."
+        ]
+      },
+      {
+        "icon": "🏙️",
+        "name": "Daegu city / Dongdaegu area",
+        "role": "Best for food & hub",
+        "highlight": "Staying in Daegu city or Dongdaegu (동대구) puts high-speed rail, commercial districts, and food streets at your door — ideal for 'lake + transfer' travelers who head to Songhae Park by metro or car by day.",
+        "commute": "Commute: metro to Okpo about 40–60 minutes. Good for self-drivers or independent travelers wanting absolute convenience.",
+        "points": [
+          "High-speed hub and districts at hand, good for transfers.",
+          "Food, cafes, night markets extremely rich.",
+          "To Songhae Park by metro or short drive about 40–60 minutes."
+        ]
+      }
+    ],
+    "peakTitle": "Peak-season warning",
+    "peak": "Daegu's spring/autumn flower seasons and clear weekends tighten rooms and raise prices as tourists flood in. Book weeks ahead; if booking near holidays, expand the range to nearby Gyeongju or Busan and travel by train or car.",
+    "tipsTitle": "Lodging tips",
+    "tips": [
+      "For sunrise and flower shots: prefer Dalseong-gun / Okpo, walk to the park at dawn.",
+      "For convenience and food: choose Daegu city / Dongdaegu, walk and dine at hand.",
+      "Before booking, confirm breakfast, parking, and EV chargers (key for self-drivers).",
+      "Peak seasons and holidays need advance planning to avoid no rooms or high prices."
+    ]
+  }
+}
