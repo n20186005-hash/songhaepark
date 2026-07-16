@@ -40,10 +40,21 @@ const planner = h.sunsetPlanner ?? {};
       </p>
     )}
 
-    <!-- Live data placeholders -->
-    <div class="flex flex-wrap items-center justify-center gap-2 mb-7">
-      <span class="live-pill">🌤️ {live.weather}：<span id="current-weather" class="live-placeholder">—</span></span>
-      <span class="live-pill">🌅 {live.sunset}：<span id="sunset-time" class="live-placeholder">—</span></span>
+    <!-- Live data widget -->
+    <div class="flex justify-center mb-6">
+      <div class="inline-flex items-center gap-4 px-5 py-2.5 rounded-full" style="background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.2); backdrop-filter: blur(8px);">
+        <div class="flex items-center gap-2 text-sm text-white/90">
+          <span class="text-base">🌤️</span> 
+          <span>{live.weather}</span>
+          <span id="current-weather" class="font-medium">—</span>
+        </div>
+        <div class="w-px h-4 bg-white/20"></div>
+        <div class="flex items-center gap-2 text-sm text-white/90">
+          <span class="text-base">🌅</span> 
+          <span>{live.sunset}</span>
+          <span id="sunset-time" class="font-medium">—</span>
+        </div>
+      </div>
     </div>
 
     {h.legend && h.legend.quote && (
@@ -52,6 +63,22 @@ const planner = h.sunsetPlanner ?? {};
         <p class="hero-legend-text">{h.legend.quote}</p>
         <cite class="hero-legend-cite">{h.legend.attribution}</cite>
       </blockquote>
+    )}
+
+    <!-- Audio Player Interactive Widget -->
+    {messages.audioPlayer && (
+      <div class="max-w-md mx-auto mb-7 rounded-2xl p-4 text-left group cursor-pointer transition-transform hover:scale-[1.02]" style="background: rgba(15,32,21,0.4); border: 1px solid rgba(255,255,255,0.15); backdrop-filter: blur(12px);" onclick="const audio = document.getElementById('songhae-audio'); if(audio.paused){audio.play(); this.querySelector('.play-icon').textContent='⏸️'}else{audio.pause(); this.querySelector('.play-icon').textContent='▶️'}">
+        <div class="flex items-center gap-4">
+          <div class="w-12 h-12 rounded-full flex items-center justify-center shrink-0" style="background: var(--accent);">
+            <span class="play-icon text-white text-xl ml-1">▶️</span>
+          </div>
+          <div>
+            <p class="text-xs uppercase tracking-[0.1em] text-white/70 mb-1">{messages.audioPlayer.cta}</p>
+            <p class="text-sm font-semibold text-white">{messages.audioPlayer.title}</p>
+          </div>
+        </div>
+        <audio id="songhae-audio" src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" preload="none"></audio>
+      </div>
     )}
 
     {planner.title && (
