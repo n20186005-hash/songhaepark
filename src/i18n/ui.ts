@@ -36,7 +36,9 @@ export function getI18n(url: URL) {
 export function buildAlternates(path = ''): Record<string, string> {
   const base = 'https://songhaepark.com';
   const clean = path.replace(/^\/+/, '').replace(/\/+$/, '');
-  const mk = (l: string) => `${base}/${l}${clean ? '/' + clean : ''}`;
+  // Always end with a trailing slash to match trailingSlash: 'always' output
+  // and avoid duplicate /ko vs /ko/ indexing.
+  const mk = (l: string) => `${base}/${l}${clean ? '/' + clean + '/' : '/'}`;
   return {
     zh: mk('zh'),
     en: mk('en'),
